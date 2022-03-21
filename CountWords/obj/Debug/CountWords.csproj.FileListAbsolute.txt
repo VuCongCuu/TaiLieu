@@ -1,0 +1,8 @@
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\bin\Debug\CountWords.exe.config
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\bin\Debug\CountWords.exe
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\bin\Debug\CountWords.pdb
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\obj\Debug\CountWords.csproj.AssemblyReference.cache
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\obj\Debug\CountWords.csproj.SuggestedBindingRedirects.cache
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\obj\Debug\CountWords.exe
+D:\FAI\SEM2\C#\Assignment\BT_Collections\CountWords\obj\Debug\CountWords.pdb
